@@ -7,7 +7,9 @@ public abstract class Test1 {
 		System.out.println("1111");
 		//454545454544
 	}
-     
+     private void name() {
+		
+	}
 
 
 }
