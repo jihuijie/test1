@@ -6,6 +6,7 @@ public abstract class Test1 {
 		//2222222222222222222
 		System.out.println("1111");
 		//454545454544
+	    System.out.println();
 	}
      
 
